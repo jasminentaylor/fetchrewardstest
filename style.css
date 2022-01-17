@@ -1,0 +1,19 @@
+body {
+    background-color: lightslategray;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-right: 200px;
+    margin-left: 200px;
+    padding-top: 100px;
+}
+
+#submit_button {
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
